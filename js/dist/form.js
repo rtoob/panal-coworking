@@ -1,0 +1,1 @@
+!function(s){"use strict";s(".cool-b4-form .form-control").on("input",function(){s(this).val()?s(this).addClass("hasValue"):s(this).removeClass("hasValue")})}(jQuery);
